@@ -14,6 +14,7 @@ public class junittset {
         String s1 = "sad";
         String s2 = "happy";
         System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s1));
 
     }
 }
